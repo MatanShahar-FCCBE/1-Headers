@@ -1,0 +1,30 @@
+{
+  "name": "2-headers",
+  "version": "0.0.1",
+  "description": "Headers challenge on FreeCodeCamp",
+  "main": "dist/index.js",
+  "scripts": {
+    "start": "node dist/index.js",
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MatanShahar-FCCBE/2-Headers.git"
+  },
+  "keywords": [
+    "FreeCodeCamp"
+  ],
+  "author": "Matan Shahar",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MatanShahar-FCCBE/2-Headers/issues"
+  },
+  "homepage": "https://github.com/MatanShahar-FCCBE/2-Headers#readme",
+  "devDependencies": {
+    "@types/node": "^8.0.28",
+    "gulp": "^3.9.1",
+    "gulp-typescript": "^3.2.2",
+    "gulp-util": "^3.0.8",
+    "typescript": "^2.5.2"
+  }
+}

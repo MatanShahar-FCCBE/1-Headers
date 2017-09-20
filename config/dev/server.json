@@ -1,0 +1,5 @@
+{
+    "envname": "development",
+    "port": 8082,
+    "hostname": "127.0.0.1"
+}
